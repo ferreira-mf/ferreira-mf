@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Sobre mim
 
@@ -8,28 +7,27 @@
 
 ## Minhas Skills
 
-**Aplicações e dados**
+**Linguagens e Frameworks**
 
-[![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
-[![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)](#)
-[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](#)
-[![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 
-**Utilidades**
+**Ferramentas e Plataformas de desenvolvimento**
 
-[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)](#)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](#)
-
-**Ferramentas de desenvolvimento**
-
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
-[![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)](#)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
 
 <br/>
 
