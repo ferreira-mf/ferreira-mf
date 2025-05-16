@@ -19,15 +19,15 @@
 
 **Utilidades**
 
-[![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)](#)
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](#)
+[![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)](#)
 [![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)](#)
 
 **Ferramentas de desenvolvimento**
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)](#)
 
