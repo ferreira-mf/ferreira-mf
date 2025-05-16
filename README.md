@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 🤔 Meu nome é Marcelo Ferreira e atualmente estou buscando realizar minha transição de carreira para a área de TI.
+- 🤔 Meu nome é Marcelo Ferreira e atualmente busco realizar minha transição de carreira para a área de TI, com foco no backend.
 - 🎓 Formado em análise e desenvolvimento de sistemas e administração de empresas.
 - 🌱 Estudando Java e SpringBoot
 
